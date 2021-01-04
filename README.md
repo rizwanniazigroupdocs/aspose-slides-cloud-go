@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/api-v3.0-lightgrey) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/aspose-slides-cloud/aspose-words-cloud-slides) [![GitHub license](https://img.shields.io/github/license/aspose-slides-cloud/aspose-slides-cloud-slides)](https://github.com/aspose-slides-cloud/aspose-slides-cloud-slides)
+![](https://img.shields.io/badge/api-v3.0-lightgrey) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/aspose-slides-cloud/aspose-slides-cloud-go) [![GitHub license](https://img.shields.io/github/license/aspose-slides-cloud/aspose-slides-cloud-go)](https://github.com/aspose-slides-cloud/aspose-slides-cloud-go)
 
 # Aspose.Slides Cloud SDK for Go
 This repository contains Aspose.Slides Cloud SDK for Go source code. This SDK allows you to work with Aspose.Slides Cloud REST APIs in your Go applications.
